@@ -1,0 +1,13 @@
+PÁGINA PARA LA FERIA CIENTÍFICA
+
+1. Copie la carpeta completa "feria-plantas-medicinales" a la memoria USB.
+2. No cambie de lugar ni elimine las carpetas o archivos internos.
+3. Para abrir la página, haga doble clic en index.html.
+4. No se necesita Internet ni instalar programas.
+
+Antes de presentar:
+- Abra index.html con el Bloc de notas.
+- Busque "Escriba aquí el nombre" y reemplace los datos del estudiante, docente y centro educativo.
+- Guarde el archivo sin cambiar su nombre.
+
+Contenido creado con fines educativos. Las imágenes botánicas son ilustrativas.
